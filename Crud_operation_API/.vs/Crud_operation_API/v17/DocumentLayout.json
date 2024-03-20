@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AngularDotnet\\Crud_operation_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8318FF23-E9CF-4482-A329-E632C5BE3D7B}|Crud_operation_API\\Crud_operation_API.csproj|d:\\angulardotnet\\crud_operation_api\\crud_operation_api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8318FF23-E9CF-4482-A329-E632C5BE3D7B}|Crud_operation_API\\Crud_operation_API.csproj|solutionrelative:crud_operation_api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8318FF23-E9CF-4482-A329-E632C5BE3D7B}|Crud_operation_API\\Crud_operation_API.csproj|d:\\angulardotnet\\crud_operation_api\\crud_operation_api\\data\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8318FF23-E9CF-4482-A329-E632C5BE3D7B}|Crud_operation_API\\Crud_operation_API.csproj|solutionrelative:crud_operation_api\\data\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8318FF23-E9CF-4482-A329-E632C5BE3D7B}|Crud_operation_API\\Crud_operation_API.csproj|d:\\angulardotnet\\crud_operation_api\\crud_operation_api\\data\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8318FF23-E9CF-4482-A329-E632C5BE3D7B}|Crud_operation_API\\Crud_operation_API.csproj|solutionrelative:crud_operation_api\\data\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8318FF23-E9CF-4482-A329-E632C5BE3D7B}|Crud_operation_API\\Crud_operation_API.csproj|d:\\angulardotnet\\crud_operation_api\\crud_operation_api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8318FF23-E9CF-4482-A329-E632C5BE3D7B}|Crud_operation_API\\Crud_operation_API.csproj|solutionrelative:crud_operation_api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8318FF23-E9CF-4482-A329-E632C5BE3D7B}|Crud_operation_API\\Crud_operation_API.csproj|d:\\angulardotnet\\crud_operation_api\\crud_operation_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8318FF23-E9CF-4482-A329-E632C5BE3D7B}|Crud_operation_API\\Crud_operation_API.csproj|solutionrelative:crud_operation_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8318FF23-E9CF-4482-A329-E632C5BE3D7B}|Crud_operation_API\\Crud_operation_API.csproj|d:\\angulardotnet\\crud_operation_api\\crud_operation_api\\migrations\\20240314112035_intial setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8318FF23-E9CF-4482-A329-E632C5BE3D7B}|Crud_operation_API\\Crud_operation_API.csproj|solutionrelative:crud_operation_api\\migrations\\20240314112035_intial setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8318FF23-E9CF-4482-A329-E632C5BE3D7B}|Crud_operation_API\\Crud_operation_API.csproj|d:\\angulardotnet\\crud_operation_api\\crud_operation_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8318FF23-E9CF-4482-A329-E632C5BE3D7B}|Crud_operation_API\\Crud_operation_API.csproj|solutionrelative:crud_operation_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240314112035_Intial setup.cs",
+              "DocumentMoniker": "D:\\AngularDotnet\\Crud_operation_API\\Crud_operation_API\\Migrations\\20240314112035_Intial setup.cs",
+              "RelativeDocumentMoniker": "Crud_operation_API\\Migrations\\20240314112035_Intial setup.cs",
+              "ToolTip": "D:\\AngularDotnet\\Crud_operation_API\\Crud_operation_API\\Migrations\\20240314112035_Intial setup.cs",
+              "RelativeToolTip": "Crud_operation_API\\Migrations\\20240314112035_Intial setup.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T11:20:36.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\AngularDotnet\\Crud_operation_API\\Crud_operation_API\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Crud_operation_API\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\AngularDotnet\\Crud_operation_API\\Crud_operation_API\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Crud_operation_API\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAowCgAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T11:03:06.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\AngularDotnet\\Crud_operation_API\\Crud_operation_API\\Data\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Crud_operation_API\\Data\\EmployeeRepository.cs",
+              "ToolTip": "D:\\AngularDotnet\\Crud_operation_API\\Crud_operation_API\\Data\\EmployeeRepository.cs",
+              "RelativeToolTip": "Crud_operation_API\\Data\\EmployeeRepository.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAmwCgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T10:50:07.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\AngularDotnet\\Crud_operation_API\\Crud_operation_API\\appsettings.json",
+              "RelativeDocumentMoniker": "Crud_operation_API\\appsettings.json",
+              "ToolTip": "D:\\AngularDotnet\\Crud_operation_API\\Crud_operation_API\\appsettings.json",
+              "RelativeToolTip": "Crud_operation_API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-14T10:17:53.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AngularDotnet\\Crud_operation_API\\Crud_operation_API\\Program.cs",
+              "RelativeDocumentMoniker": "Crud_operation_API\\Program.cs",
+              "ToolTip": "D:\\AngularDotnet\\Crud_operation_API\\Crud_operation_API\\Program.cs",
+              "RelativeToolTip": "Crud_operation_API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T10:12:58.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "D:\\AngularDotnet\\Crud_operation_API\\Crud_operation_API\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Crud_operation_API\\Data\\AppDBContext.cs",
+              "ToolTip": "D:\\AngularDotnet\\Crud_operation_API\\Crud_operation_API\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "Crud_operation_API\\Data\\AppDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T10:02:36.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\AngularDotnet\\Crud_operation_API\\Crud_operation_API\\Data\\Employee.cs",
+              "RelativeDocumentMoniker": "Crud_operation_API\\Data\\Employee.cs",
+              "ToolTip": "D:\\AngularDotnet\\Crud_operation_API\\Crud_operation_API\\Data\\Employee.cs",
+              "RelativeToolTip": "Crud_operation_API\\Data\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T09:58:50.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
